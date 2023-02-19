@@ -4,6 +4,8 @@
  *
  * Description:'puts out string'
  *
+ *puts("\"Programming is like building a multilingual puzzle")
+ *
  * return: always 0 (Success)
  */
 int main(void)
