@@ -1,6 +1,9 @@
 #include <stdio.h>
 /**
  * main - Entry point
+ *
+ * Description:'puts out string'
+ *
  * return: always 0
  */
 int main(void)
