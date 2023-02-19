@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * retern Alawys 0 printf  string (sucess)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
