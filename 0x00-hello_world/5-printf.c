@@ -2,10 +2,10 @@
 /**
  * main - Entry point
  *
- * retunr Alawys 0 string (sucess)
+ * retern Alawys 0 printf  string (sucess)
  */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,")
+printf("with proper grammar, but the outcome is a piece of art,");
 return (0);
 }
