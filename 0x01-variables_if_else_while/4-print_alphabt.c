@@ -6,13 +6,12 @@
  */
 int main(void)
 {
-char qe[26] = "abcdfghijklmnoprstuvwxyz";
-char v = '\n';
+char qe[24] = "abcdfghijklmnoprstuvwxyz";
 int x;
-for (x = 0 ; x < 26 ; x++)
+for (x = 0 ; x < 24 ; x++)
 {
 putchar (qe[x]);
 }
-putchar (v);
+putchar ('\n');
 return (0);
 }
