@@ -8,9 +8,13 @@
 int main(void)
 {
 int z;
-for (z = 0; z < 9; z++)
+for (z = 0; z <= 9; z++)
 {
 putchar(z + 48);
+if (z == 9)
+{
+break;
+}
 putchar(',');
 putchar(' ');
 }
