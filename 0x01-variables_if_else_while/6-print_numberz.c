@@ -7,11 +7,10 @@
  */
 int main(void)
 {
-long int a[10] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 int z;
-for (z = 0; z < 10; z++)
+for (z = 0; z <= 9; z++)
 {
-putchar(a[z]);
+putchar(z);
 }
 putchar('\n');
 return (0);
