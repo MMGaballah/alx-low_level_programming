@@ -9,6 +9,7 @@ int main(void)
 {
 char a;
 char b;
+char c;
 for (a = 'a'; a <= 'z'; a++)
 {
 putchar(a);
@@ -17,5 +18,6 @@ for (b = 'A'; b <= 'Z'; b++)
 {
 putchar(b);
 }
+putchar(c);
 return (0);
 }
