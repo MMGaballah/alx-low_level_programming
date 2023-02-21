@@ -1,5 +1,5 @@
-#ifndef PROJ_MAIN_H
-#define PROJ_MAIN_H
+#ifndef main_h
+#define main_h
 
 int _putchar(char);
 
