@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef PROJ_MAIN_H
+#define PROJ_MAIN_H
 
 #include <unistd.h>
 
