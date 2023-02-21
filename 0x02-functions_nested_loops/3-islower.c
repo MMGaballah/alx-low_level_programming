@@ -1,12 +1,13 @@
 #include "main.h"
 #include <ctype.h>
 /**
- * _islower - return value based on if else result;
- * c is varaible;
+ * _islower - function to print lower case
+ *
+ * @c: is a variable
  * islower - fucntion to see if char is lower case;
- * (int c) - given from main to use in function;
- * Return - Always 0;
- * Retrun - Alawys 1;
+ *
+ * Return: 1 if lower case letter
+ * Retrun: 0 if not lower case letter
  */
 int _islower(int c)
 {
