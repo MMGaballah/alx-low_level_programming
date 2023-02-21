@@ -1,6 +1,10 @@
 #ifndef PROJ_MAIN_H
 #define PROJ_MAIN_H
 
+int _putchar(char);
+
+#endif
+
 #include <unistd.h>
 
 /**
@@ -14,4 +18,3 @@ int _putchar(char c)
 {
 	return (write(1, &c, 1));
 }
-#endif
