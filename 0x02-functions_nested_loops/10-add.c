@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  *add - Function for addtion
- *@a @b @n: variables 
+ *@a: varibles
+ *@b: varibles
  *Return: @n
  */
 int add(int a, int b)
