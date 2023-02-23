@@ -20,11 +20,11 @@ _putchar('\n');
 }
 else
 {
-while ( x < size)
+while (x < size)
 {
 z = 0;
 while (z < size)
-{ 
+{
 _putchar('#');
 z++;
 }
