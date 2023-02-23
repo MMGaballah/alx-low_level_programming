@@ -1,7 +1,7 @@
 #include "main.h"
 #include <ctype.h>
 /**
- * 1_isdigit - function to print lower case
+ * _isdigit - function to print lower case
  *
  * @c: is a variable
  * isdigit - fucntion to see if char is a digit;
