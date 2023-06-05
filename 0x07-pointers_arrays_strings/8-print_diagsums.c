@@ -7,7 +7,7 @@
  *
  *
  */
- void print_diagsums(int *a, int size)
+void print_diagsums(int *a, int size)
 {
 int c;
 int b;
@@ -31,5 +31,5 @@ v++;
 }
 s--;
 }
-printf("%d,%d\n", sum1, sum2);
+printf("%i,%i\n", sum1, sum2);
 }
